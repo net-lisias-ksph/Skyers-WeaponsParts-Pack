@@ -1,5 +1,8 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2017-0627: 0.35 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.0
+	+ An actual upadate ading japaneese weapons (Type 97 and 3 varients of Type 99)
+	+ BK 3.7 and BK 5
 * 2017-0127: 0.31 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.2.2
 	+ Remembered to put in license
 * 2016-1017: 0.11 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.1.3
