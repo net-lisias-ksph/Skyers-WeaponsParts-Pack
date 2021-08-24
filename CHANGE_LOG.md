@@ -1,5 +1,7 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2018-0505: 0.4 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.4.4
+	+ Fix for 7mm guns! They finally do damage...
 * 2016-1218: 0.3 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.2.2
 	+ added WW1 weapons, balanced some stuff fixed some stuff updated to 1.2
 * 2016-1103: 0.2 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.1.3
