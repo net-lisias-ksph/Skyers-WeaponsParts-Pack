@@ -1,5 +1,7 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2017-0821: 0.36 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.0
+	+ MIT License added;    All weapons (With the exception of the MG 151/15) use the new BD universal ammo box;      All weapons renamed to make them close together in the editor
 * 2017-0627: 0.35 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.0
 	+ An actual upadate ading japaneese weapons (Type 97 and 3 varients of Type 99)
 	+ BK 3.7 and BK 5
