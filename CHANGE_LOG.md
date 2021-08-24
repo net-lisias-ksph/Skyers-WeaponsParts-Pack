@@ -1,5 +1,7 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2018-1118: 0.55_1 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.5.1
+	+ Added Browning 1919 because we need those British weapons
 * 2018-1118: 0.56 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.5.1
 	+ Fixed Browning 1919's overheat rate
 	+ Fixed MG151 dual turret being in wrong category and weird name
