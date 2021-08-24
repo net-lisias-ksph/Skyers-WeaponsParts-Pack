@@ -1,5 +1,7 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2018-1209: 0.6_Blitz (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.6.1
+	+ Added tnt mass to bombs to match with the new BDA standards (Why the heck did we forget the bombs before?!)
 * 2018-0818: 0.5 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.4.5
 	+ New modern revolver cannons!
 	+ Type 97 temporarily removed due to issues
