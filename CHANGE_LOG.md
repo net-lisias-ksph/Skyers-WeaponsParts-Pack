@@ -1,5 +1,10 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2019-0522: 0.7_Blitz_II (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.7.3
+	+ New bomb textures! They look a bit less like candy hopefully. Well, okay, maybe they sort of still do, but you get more flavou- I mean varieties!
+	+ Type 97 fixed and reimplemented
+	+ MG 08/15 fixed
+	+ SchKAS fixed
 * 2018-1209: 0.6_Blitz (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.6.1
 	+ Added tnt mass to bombs to match with the new BDA standards (Why the heck did we forget the bombs before?!)
 * 2018-0818: 0.5 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.4.5
