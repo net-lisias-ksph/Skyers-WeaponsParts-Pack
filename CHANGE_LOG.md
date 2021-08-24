@@ -1,5 +1,11 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2018-0818: 0.5 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.4.5
+	+ New modern revolver cannons!
+	+ Type 97 temporarily removed due to issues
+	+ BK 5 now has the correct bullet type!
+	+ Removed unnecessary resources
+	+ Changed manufacture so the weapons actually show up (BDA/KSP bug)
 * 2018-0505: 0.4 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.4.4
 	+ Fix for 7mm guns! They finally do damage...
 * 2016-1218: 0.3 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.2.2
