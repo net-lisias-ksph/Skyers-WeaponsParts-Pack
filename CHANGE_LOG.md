@@ -1,5 +1,14 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2018-0129: 0.8 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.4.2
+	+ Complete overhual of all guns!
+		- Realistic-ish bullets
+		- Fixed some issues
+		- Japanese weapons fixed execpt for the Type 97
+	+ Current weapons that still need balancing/fixing:
+		- BK 5
+		- Type 97
+			- Note this update requires the BDA test version, not the normal one
 * 2019-0522: 0.7_Blitz_II (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.7.3
 	+ New bomb textures! They look a bit less like candy hopefully. Well, okay, maybe they sort of still do, but you get more flavou- I mean varieties!
 	+ Type 97 fixed and reimplemented
