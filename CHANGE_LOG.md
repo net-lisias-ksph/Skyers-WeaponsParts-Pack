@@ -1,5 +1,12 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2017-0919: 0.37.1 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.1
+	+ 0.37.1
+		- More Balancing except for the following guns:
+	+ M4 T9
+	+ M10
+	+ B.K. 3.7
+	+ B.K. 5
 * 2017-0917: 0.37 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.0
 	+ Version 0.7 Changelog
 		- Major fix for bullets! They should work properly now.
