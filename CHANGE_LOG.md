@@ -1,5 +1,7 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2016-1017: 0.11 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.1.3
+	+ fixed SchKAS texture and fireing position
 * 2018-0129: 0.8 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.4.2
 	+ Complete overhual of all guns!
 		- Realistic-ish bullets
