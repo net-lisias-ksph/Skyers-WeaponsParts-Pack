@@ -1,5 +1,10 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2017-0917: 0.37 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.0
+	+ Version 0.7 Changelog
+		- Major fix for bullets! They should work properly now.
+		- Changed File Structure.
+		- Updated Module Manager.
 * 2017-0821: 0.36 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.0
 	+ MIT License added;    All weapons (With the exception of the MG 151/15) use the new BD universal ammo box;      All weapons renamed to make them close together in the editor
 * 2017-0627: 0.35 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.0
