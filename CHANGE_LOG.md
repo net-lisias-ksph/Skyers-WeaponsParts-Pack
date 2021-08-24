@@ -1,5 +1,8 @@
 # Skyer's WeaponsParts Pack :: Change Log
 
+* 2018-0822: 0.51 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.4.5
+	+ Temporarily moved items to Utility to avoid confusion (Thanks XOC2008 and DoctorDavinci for pointing that out)
+	+ Fixed revolver cannons so they feed properly (Thanks xiones11 for pointing that out)
 * 2017-0919: 0.37.1 (Skyer, Murican_Jeb, TheCalcMan) for KSP 1.3.1
 	+ 0.37.1
 		- More Balancing except for the following guns:
